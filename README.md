@@ -4,8 +4,9 @@
 - Conda environments
 - Poetry package dependency manager
 - FastAPI Python API framework
-- Vue JavaScript framework for web user interface Conda
-   @$ cd ToDos
+- Vue JavaScript framework for web user interfaces
+- Postgres SQL database
+- Tortoise Python ORM (Object Relation Mapper)
 
 ### Setup
 1. Initialize the Poetry manager
