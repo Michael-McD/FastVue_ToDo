@@ -47,3 +47,8 @@
    $ poetry add "fastapi[all]"
    $ poetry add "tortoise-orm[asyncpg]"
    ```
+
+   To start the FastAPI server
+
+
+   `$ poetry run uvicorn main:app --reload`
